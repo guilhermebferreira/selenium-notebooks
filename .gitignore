@@ -4,3 +4,4 @@ chromedriver2.7
 chromedriver2.9
 chromedriver32-2.5
 *.env
+.ipynb_checkpoints
